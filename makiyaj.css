@@ -1,0 +1,558 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo-a{
+    color: black;
+    margin-left: 50px;
+    font-weight: 350;
+}
+.lgo-a{
+    width: 1.5px;
+    height: 15px;
+    background-color: black;
+    margin-left: 185px;
+    margin-top: -65px;
+}
+.logo-a2{
+    margin-left: 210px;
+    margin-top: -62px;
+    color: black;
+    font-weight: 350;
+    font-family: sans-serif;
+}
+.flag{
+    margin-left: 10px;
+    margin-top: -65px;
+}
+.menu{
+    margin-left: -100px;
+    width: 600px;
+    margin-top: 10px;
+}
+.header-item{
+    margin: 0 20px;
+}
+.header-link{
+    color: rgba(0, 0, 0, 0.703);
+}
+.header3{
+    position: relative;
+    left: 250px;
+}
+.kirish-item{
+    display: inline-block;
+    margin-top: 10px;
+    border-right: 1px solid grey;
+    width: 44px;
+}
+.kirish{
+    color: black;
+}
+.royxat{
+    color: black;
+}
+.royxat-item{
+    position: relative;
+    left: 50px;
+    list-style: none;
+    bottom: 24px;
+}
+.iconcalar{
+    margin-left: 490px;
+}
+.like{
+    margin-left: 75px;
+    margin-top: -78px;
+}
+.katalog p{
+    position: relative;
+    bottom: 10px;
+    left: 3px;
+}
+.korzina{
+    margin-left: 130px;
+    margin-top: -70px;
+}
+.logo{
+    margin-left: 50px;
+}
+.header-input{
+    width: 600px;
+    height: 50px;
+    outline: none;
+    border: 1px solid grey;
+    padding-left: 50px;
+    border-radius: 6px;
+    margin-top: 15px;
+    margin-left: 40px;
+    font-size: 18px;
+}
+.search-icon{
+    position: relative;
+    left: 50px;
+    width: 35px;
+    height: 35px;
+    bottom: 40px;
+}
+.menu2{
+   position: relative;
+   left: 200px;
+}
+.body-link{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: sans-serif;
+    margin: 0 10px;
+}
+.body-link:hover{
+    color: rgba(0, 0, 0, 0.475);
+    border-bottom: 3px solid black;
+}
+.hr{
+    width: 100%;
+    height: 0.3px;
+    background-color: grey;
+    outline: none;
+    position: relative;
+    bottom: 18px;
+    z-index: -1;
+}
+.body-link2{
+    color: #658961;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: sans-serif;
+    margin: 0 10px;
+}
+.body-link2:hover{
+    color: #658961c1;
+    border-bottom: 3px solid black;
+}
+.body-pp{
+    color: grey;
+    margin-top: -30px;
+    margin-left: 50px;
+}
+.body-link8{
+    color: red;
+    font-size: 18px;
+}
+.body-link8:hover{
+    color: red;
+    border-bottom: 2px solid red;
+}
+/*========================= BODY ==================*/
+.body-box1 a{
+    display: block;
+    font-size: 20px;
+    color: black;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-weight: 500;
+}
+.body{
+    margin-top: 50px;
+}
+.body2-h3{
+    margin-top: 50px;
+    margin-left: -300px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: black;
+}
+.body-input{
+    display: flex;
+}
+.body-input input{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    position: relative;
+    left: 250px;
+}
+.button2{
+    background: none;
+    border: none;
+    font-weight: 500;
+    font-size: 20px;
+    margin-top: 10px;
+    padding-left: 10px;
+    margin-left: -30px;
+    outline: none;
+}
+.button3{
+    border: 1px solid rgba(128, 128, 128, 0.926);
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    color: grey;
+    background: none;
+    font-weight: 500;
+    outline: none;
+}
+.button3:hover{
+    background-color: grey;
+    color: #fff;
+}
+.body2-box a{
+    display: block;
+    font-size: 25px;
+    color: black;
+    font-weight: bold;
+
+}
+.body2-button{
+    width: 150px;
+    height: 40px;
+    background: none;
+    border: 1px solid grey;
+    color: black;
+    font-size: 18px;
+    border-radius: 6px;
+}
+.body2-button2{
+    width: 150px;
+    height: 40px;
+    background: none;
+    border: 1px solid grey;
+    color: black;
+    font-size: 18px;
+    border-radius: 6px;
+}
+.body2-box{
+    position: relative;
+    left: 50px;
+}
+.body2-img{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: #00d68f;
+    position: relative;
+    top: 26px;
+    right: 25px;
+}
+.body2-img2{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: #00d68f;
+    position: relative;
+    left: 305px;
+    bottom: 27px;
+}
+.body2-hr{
+    width: 300px;
+    background-color: black;
+}
+.box{
+    margin-top: -30px;
+}
+.img{
+    width: 90%;
+    height: 400px;
+    background: url("./img/makiyaj-img3.jfif") no-repeat center;
+}
+.body-box{
+    position: relative;
+    left: 100px;
+    box-shadow: 0 5px 10px 0 grey;
+}
+.body-box2{
+    box-shadow: 0 5px 10px 0 grey;
+    border-radius: 20px;
+}
+.card-p2{
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+}
+.card-span{
+    color: #e0727f;
+    font-weight: 700;
+    margin-left: 50px;
+    position: relative;
+    bottom: 10px;
+}
+.card-span2{
+    margin-left: 10px;
+    position: relative;
+    bottom: 10px;
+}
+
+.body-box{
+    border-radius: 20px;
+   position: relative;
+   margin-left: 20px;
+   left: -5px;
+}
+.card-footer-button{
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    border-top: 1px solid grey;
+    border-bottom: none;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+    color: black;
+    font-size: 20px;
+    background: none;
+    padding-top: 10px;
+    font-weight: 500;
+    height: 60px;
+}
+.card-footer-button:hover{
+    color: rgba(0, 0, 0, 0.634);
+}
+.card-box-button{
+    width: 90px;
+    height: 20px;
+    border-radius: 10px;
+    border: 2px solid blue;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+}
+.card-box-button a{
+    margin-left: 10px;
+   position: relative;
+   bottom: 5px;
+    color: blue;
+    text-decoration: none;
+}
+.card-box-button:hover{
+    background-color: blue;
+}
+.card-box-button a:hover{
+    color: #fff;
+}
+.ed{
+    margin-left: 300px;
+    margin-top: -20px;
+    z-index: 1;
+}
+.body-box:hover{
+    box-shadow: 0 5px 25px 0 grey;
+}
+.body-box2:hover{
+    box-shadow: 0 5px 30px 0 grey;
+}
+.div:hover .body-box-img-hover{
+    position: relative;
+   top: 0;
+    opacity: 1;
+    transition: .4s ease all;
+}
+.body-box-img-hover{
+    opacity: 0;
+  top: 100px;
+  position: relative;
+  left: 75px;
+}
+.body-box-hr{
+  background-color: grey;
+  position: relative;
+}
+.card-img2{
+    width: 90px;
+    height: 1.5px;
+    border-radius: 20px;
+    background-color: #111;
+    position: relative;
+    bottom: 10px;
+    right: 90px;
+}
+.body-box2:hover .leftt{
+    opacity: 1;
+}
+.body-box2:hover .left{
+    opacity: 1;
+}
+.leftt{
+    background-color: black;
+    opacity: 0;
+    position: relative;
+    left: 40px;
+}
+.leftt span{
+    margin-top: 2px;
+}
+.left span{
+    margin-top: 2px;
+}
+.left{
+    background-color: black;
+    opacity: 0;
+    
+}
+/*======================== BLOG =======================*/
+.img2{
+    width: 90%;
+    height: 400px;
+    background: url("./img/makiyaj-img6.jfif") no-repeat center;
+}
+.img3{
+    width: 90%;
+    height: 400px;
+    background: url("./img/makiyaj-img8.jfif") no-repeat center;
+}
+/*============================ FOOTER ===================*/
+.footer2{
+    display: block;
+    margin-left: 100px;
+    
+}
+.footer2 a{
+    display: block;
+    color: rgba(17, 17, 17, 0.748);
+    margin: 5px 0;
+}
+.footer-logo{
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+.a{
+    width: 100%;
+}
+
+.footer23 a{
+    display: block;
+    color: rgba(17, 17, 17, 0.748);
+    margin: 5px 0;
+}
+.footer3{
+    display: block;
+    margin-left: 50px;
+    
+}
+.footer3 a{
+    display: block;
+    color: rgba(17, 17, 17, 0.748);
+    margin: 5px 0;
+}
+.footer-icon a{
+    margin: 0 10px;
+}
+.footer-icon{
+    margin-top: 20px;
+}
+.footer4{
+    margin-left: -40px;
+}
+.footer4 p{
+    color: grey;
+    margin-top: 10px;
+}
+.site-header2{
+    position: static;
+}
+@media (min-width: 400px) and (max-width: 700px) {
+    .menu{
+        position: relative;
+        left: 30px;
+    }
+    .header-link{
+        font-size: 13px;
+    }
+    .site-header-a{
+        margin-left: -60px;
+    }
+    .header3{
+        position: relative;
+        bottom: 78px;
+        left: 220px;
+    }
+    .header3 a{
+        font-size: 13px;
+    }
+    .kirish-item{
+        padding-left: 10px;
+    }
+    .royxat-item{
+        margin-left: -5px;
+    }
+    .logo{
+        margin-top: -70px;
+        position: relative;
+        left: 20px;
+    }
+    .header-input{
+        width: 300px;
+    }
+    .iconcalar{
+        margin-left: 100px;
+        margin-top: -20px;
+    }
+    .menu2{
+       display: none;
+    }
+    .leftttt{
+        margin-left: 20px;
+    }
+    .lefttt{
+        margin-left: -50px;
+    }
+    .car-img{
+        width: 100% !important;
+        height: 400px;
+    }
+    .car-img2{
+        height: 400px;
+    }
+    .footer2{
+        margin-top: 20px;
+    }
+    .footer3{
+        position: relative;
+        left: 50px;
+        margin-top: 20px;
+    }
+    .footer23{
+        position: relative;
+        left: 100px;
+        margin-top: 20px;
+    }
+    .footer4{
+        position: relative;
+        left: 80px;
+        margin-top: 20px;
+    }
+    .r{
+        margin-top: 10px;
+        width: 90% !important;
+    }
+    .body-box1{
+        margin-left: -70px;
+    }
+    .body2-h3{
+        font-size: 25px;
+        position: relative;
+        left: 130px;
+    }
+    .body2-box{
+        margin-left: -30px;
+    }
+    .body-box{
+        width: 87%;
+       position: relative;
+       right: 5px;
+    }
+    .body-box2{
+        width: 87%;
+        position: relative;
+        left: 7px;
+    }
+    .card-img2{
+        position: absolute;
+        bottom: 80px;
+        margin-left: 5px;
+    }
+}

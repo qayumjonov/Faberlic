@@ -1,0 +1,571 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo-a{
+    color: black;
+    margin-left: 50px;
+    font-weight: 350;
+}
+.lgo-a{
+    width: 1.5px;
+    height: 15px;
+    background-color: black;
+    margin-left: 185px;
+    margin-top: -65px;
+}
+.logo-a2{
+    margin-left: 210px;
+    margin-top: -62px;
+    color: black;
+    font-weight: 350;
+    font-family: sans-serif;
+}
+.flag{
+    margin-left: 10px;
+    margin-top: -65px;
+}
+.menu{
+    margin-left: -100px;
+    width: 600px;
+    margin-top: 10px;
+}
+.header-item{
+    margin: 0 20px;
+}
+.header-link{
+    color: rgba(0, 0, 0, 0.703);
+}
+.header3{
+    position: relative;
+    left: 250px;
+}
+.kirish-item{
+    display: inline-block;
+    margin-top: 10px;
+    border-right: 1px solid grey;
+    width: 44px;
+}
+.kirish{
+    color: black;
+}
+.royxat{
+    color: black;
+}
+.royxat-item{
+    position: relative;
+    left: 50px;
+    list-style: none;
+    bottom: 24px;
+}
+.iconcalar{
+    margin-left: 490px;
+}
+.like{
+    margin-left: 75px;
+    margin-top: -78px;
+}
+.katalog p{
+    position: relative;
+    bottom: 10px;
+    left: 3px;
+}
+.korzina{
+    margin-left: 130px;
+    margin-top: -70px;
+}
+.logo{
+    margin-left: 50px;
+}
+.header-input{
+    width: 600px;
+    height: 50px;
+    outline: none;
+    border: 1px solid grey;
+    padding-left: 50px;
+    border-radius: 6px;
+    margin-top: 15px;
+    margin-left: 40px;
+    font-size: 18px;
+}
+.search-icon{
+    position: relative;
+    left: 50px;
+    width: 35px;
+    height: 35px;
+    bottom: 40px;
+}
+.menu2{
+  position: relative;
+  left: 200px;
+}
+.body-link{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: sans-serif;
+    margin: 0 10px;
+}
+.body-link:hover{
+    color: rgba(0, 0, 0, 0.475);
+    border-bottom: 3px solid black;
+}
+.hr{
+    width: 100%;
+    height: 0.3px;
+    background-color: grey;
+    outline: none;
+    position: relative;
+    bottom: 18px;
+    z-index: -1;
+}
+.body-link2{
+    color: #658961;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: sans-serif;
+    margin: 0 10px;
+}
+.body-link2:hover{
+    color: #658961c1;
+    border-bottom: 3px solid black;
+}
+.body-pp{
+    color: grey;
+    margin-top: -30px;
+    margin-left: 50px;
+}
+/*==================== BODY ========================*/
+.body-h4{
+    margin-left: -100px;
+    font-size: 20px;
+}
+.body-h4 span{
+    color: rgba(128, 128, 128, 0.66);}
+.body-h3 span{
+    font-size: 18px;
+    color: rgba(128, 128, 128, 0.753);}
+.body-h3{
+    font-size: 40px;}
+.body-input2{
+    height: 18px;
+    width: 18px;
+    margin-left: 5px;
+    position: relative;
+    top: 2px;}
+.body-span2{
+    font-size: 18px;
+    margin-left: 5px;}
+.body-button{
+    border: 1px solid grey;
+    border-radius: 8px;
+    background: none;
+    width: 50px;
+    margin-left: 10px;
+    ;}
+
+.hlar{
+    margin-top: 40px;}
+.body2-img{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: #00d68f;
+    position: relative;
+    left: 200px;
+    bottom: 20px;}
+.body2-img2{
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: #00d68f;
+    position: relative;
+    left: 420px;
+    bottom: 73px;}
+.body2-hr{
+    width: 200px;
+    background-color: black;
+    position: relative;
+    left: 220px;
+    bottom: 45px;}
+.body-hr{
+    width: 900px;
+    background-color: rgba(128, 128, 128, 0.273);
+    margin-top: -60px;}
+.body2{
+    position: relative;
+    right: 100px;}
+.x{
+    position: relative;
+    right: 680px;}
+.x2{
+    position: relative;
+    right: 450px;}
+.x3{
+    position: relative;
+    right: 320px;}
+.filtr{color: grey;}
+.x4{
+    position: relative;
+    right: 125px;}
+.body-alar a{
+    display: block;
+    position: relative;
+    right: 130px;
+}
+.body-a{
+    color: black;
+    font-size: 20px;
+}
+.body-a span{
+    color: grey;
+    font-size: 15px;
+}
+.body-a:hover{
+    color: black;
+}
+.body-link8{
+    color: red;
+    font-size: 18px;
+}
+.body-link8:hover{
+    color: red;
+    border-bottom: 2px solid red;
+}
+/*================== BLOG ==========================*/
+.blog-img{
+    width: 100%;
+    height: 400px;
+    background: url("./img/atir1.jfif") no-repeat center;
+}
+.blog-img2{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img2.jpg") no-repeat center;
+}
+.blog-img3{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img3.jpg") no-repeat center;
+}
+.blog-img4{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img4.jpg") no-repeat center;
+}
+.blog-img4:hover{
+    width: 100%;
+    height: 400px;
+    transition: .4s ease all;
+    background: url("./img3/uy\ img4hover.jpg") no-repeat center;
+}
+.blog-box{
+    position: relative;
+    left: 130px;
+    margin-top: -220px;
+    height: 600px;
+}
+.blog-box2{
+    position: relative;
+    left: 130px;
+    height: 600px;
+}
+.blog-box:hover{
+    box-shadow: 0 5px 10px 0 grey;
+}
+.blog-p{
+    margin-left: 10px;
+}
+.blog-p2{
+    margin-left: 10px;
+    font-size: 18px;
+}
+.chiziq{
+    width: 75px;
+    height: 1.5px;
+    background-color: black;
+    position: relative;
+    bottom: 46px;
+    left: 9px;
+}
+.blog-span{
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+    position: relative;
+    bottom: 44px;
+    left: 80px;
+}
+.blog-button{
+    width: 150px;
+    height: 35px;
+    background-color: black;
+    color: #fff;
+    position: relative;
+    left: 50px;
+    opacity: 0;
+}
+.blog-box:hover .blog-button{
+    opacity: 1;
+}
+.blog-box2:hover .blog-button{
+    opacity: 1;
+}
+.blog-box2:hover{
+    box-shadow: 0 5px 10px 0 grey;
+}
+.like{
+    position: relative;
+    top: 43px;
+    left: 140px;
+}
+.blog-img5{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img5.jpg") no-repeat center;
+}
+.blog-img6{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img6.jpg") no-repeat center;
+}
+.blog-img7{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img7.jpg") no-repeat center;
+}
+.blog-img7:hover{
+    width: 100%;
+    height: 400px;
+    transition: .4s ease all;
+    background: url("./img3/uy\ img7hover.jpg") no-repeat center;
+}
+.blog-img8{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img8.jpg") no-repeat center;
+}
+.blog-img8:hover{
+    width: 100%;
+    transition: .4s ease all;
+    height: 400px;
+    background: url("./img3/uy\ img7hover.jpg") no-repeat center;
+}
+.blog-img9{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img9.jpg") no-repeat center;
+}
+.blog-img10{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img10.jpg") no-repeat center;
+}
+.blog-img11{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img11.jpg") no-repeat center;
+}
+.blog-img12{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img12.jpg") no-repeat center;
+}
+.blog-img12:hover{
+    width: 100%;
+    transition: .4s ease all;
+    height: 400px;
+    background: url("./img3/uy\ img12hover.jpg") no-repeat center;
+}
+.blog-img13{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img13.jpg") no-repeat center;
+}
+.blog-img13:hover{
+    width: 100%;
+    transition: .4s ease all;
+    height: 400px;
+    background: url("./img3/uy\ img12hover.jpg") no-repeat center;
+}
+.blog-img14{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img14.jpg") no-repeat center;
+}
+.blog-img14:hover{
+    width: 100%;
+    transition: .4s ease all;
+    height: 400px;
+    background: url("./img3/uy\ img12hover.jpg") no-repeat center;
+}
+.blog-img15{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img15.jpg") no-repeat center;
+}
+.blog-img15:hover{
+    width: 100%;
+    transition: .4s ease all;
+    height: 400px;
+    background: url("./img3/uy\ img12hover.jpg") no-repeat center;
+}
+.blog-img16{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img16.jpg") no-repeat center;
+}
+.blog-img16:hover{
+    width: 100%;
+    transition: .4s ease all;
+    height: 400px;
+    background: url("./img3/uy\ img12hover.jpg") no-repeat center;
+}
+.blog-img17{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img17.jpg") no-repeat center;
+}
+.blog-img18{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img18.jpg") no-repeat center;
+}
+.blog-img19{
+    width: 100%;
+    height: 400px;
+    background: url("./img3/uy\ img19.jpg") no-repeat center;
+}
+.blog-img20{
+    width: 100%;
+    height: 400px;
+    background: url("./img/atir1.jfif") no-repeat center;
+}
+.footer2{
+    display: block;
+    margin-left: 100px;
+    
+}
+.footer2 a{
+    display: block;
+    color: rgba(17, 17, 17, 0.748);
+    margin: 5px 0;
+}
+.footer-logo{
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+.a{
+    width: 100%;
+}
+
+
+.footer23 a{
+    display: block;
+    color: rgba(17, 17, 17, 0.748);
+    margin: 5px 0;
+}
+.footer3{
+    display: block;
+    margin-left: 50px;
+    
+}
+.footer3 a{
+    display: block;
+    color: rgba(17, 17, 17, 0.748);
+    margin: 5px 0;
+}
+.footer-icon a{
+    margin: 0 10px;
+}
+.footer-icon{
+    margin-top: 20px;
+}
+.footer4{
+    margin-left: -40px;
+}
+.footer4 p{
+    color: grey;
+    margin-top: 10px;
+}
+.site-header2{
+    position: static;
+}
+.footer{
+    margin-top: 100px;
+}
+@media (min-width: 400px) and (max-width: 700px) {
+    .menu{
+        position: relative;
+        left: 30px;
+    }
+    .header-link{
+        font-size: 13px;
+    }
+    .site-header-a{
+        margin-left: -60px;
+    }
+    .header3{
+        position: relative;
+        bottom: 78px;
+        left: 220px;
+    }
+    .header3 a{
+        font-size: 13px;
+    }
+    .kirish-item{
+        padding-left: 10px;
+    }
+    .royxat-item{
+        margin-left: -5px;
+    }
+    .logo{
+        margin-top: -70px;
+        position: relative;
+        left: 20px;
+    }
+    .header-input{
+        width: 300px;
+    }
+    .iconcalar{
+        margin-left: 100px;
+        margin-top: -20px;
+    }
+    .menu2{
+       display: none !important;
+    }
+    .leftttt{
+        margin-left: 20px;
+    }
+    .lefttt{
+        margin-left: -50px;
+    }
+    .car-img{
+        width: 100% !important;
+        height: 400px;
+    }
+    .car-img2{
+        height: 400px;
+    }
+    .footer2{
+        margin-top: 20px;
+    }
+    .footer3{
+        position: relative;
+        left: 50px;
+        margin-top: 20px;
+    }
+    .footer23{
+        position: relative;
+        left: 100px;
+        margin-top: 20px;
+    }
+    .footer4{
+        position: relative;
+        left: 80px;
+        margin-top: 20px;
+    }
+}
